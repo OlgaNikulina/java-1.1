@@ -52,7 +52,7 @@ OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.5+10, mixed mode)
 **Важно**: вы должны открывать терминал уже после того, как произвели установку.
 
 
-В качестве тестовых данных использовались данные [openjdk11-manual.md] (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
+В качестве тестовых данных использовались данные [openjdk11-manual.md](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
 * При выполнении всех описанных в тестовом сценарии шагов приложение OpenJDK11 устанавливается на компьютер.
 * При введении в терминале команды "java -version" появляется сообщение:
 "openjdk version "11.0.5" 2019-10-15
